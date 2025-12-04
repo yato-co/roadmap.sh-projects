@@ -12,6 +12,3 @@ Click any of the images below to view the readme and live demo of the project.
   </a>
 </p>
 
-
-
-https://roadmap.sh/projects/single-page-cv
