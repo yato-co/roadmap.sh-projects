@@ -4,6 +4,8 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 
 ## Projects List
 
+1. Single Page CV -> https://github.com/yato-co/roadmap.sh-projects
+
 Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
