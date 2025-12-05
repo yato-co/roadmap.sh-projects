@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" initial-scale="1.0" />
+    <!--SEO Meta Tags-->
+    <meta
+      name="description"
+      content="Contact for an Basic HTML  only Website"
+    />
+    <meta name="keywords" content="HTML, roadmap.sh" />
+    <meta name="author" content="yato-co" />
+    <title>Contact | Basic HTML only Website</title>
+    <link rel="stylesheet" href="main.css" type="text/css" />
+    <link rel="icon" href="img/html5.jpg" type="image/x-icon" />
+  </head>
+
+  <body>
+    <header>
+      <img src="img/Sleed.jpg" alt="Logo" title="Logo" width="64" height="64" />
+
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="articles.html">Articles</a></li>
+          <li><a href="contact.html">Contacts</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <fieldset>
+        <legend>Personal Info</legend>
+        <section id="contact">
+          <h1>Contact Me</h1>
+          <p>I'd really like to hear from you!</p>
+          <form action="https://httpbin.org/get" method="get">
+            <label for="name">Name</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              placeholder="Dave"
+              required
+              autocomplete="on"
+              autofocus
+            />
+
+            <label for="email">E-Mail</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              placeholder="Example.test@gmail.com"
+              required
+              autocomplete="on"
+            />
+
+            <label for="message">Message</label>
+            <textarea
+              name="message"
+              id="message"
+              rows="5"
+              required
+              placeholder="Write Your Message here!"
+            ></textarea>
+
+            <button type="Reset">Reset</button>
+            <button
+              type="Submit"
+              formaction="https://httpbin.org/post"
+              formmethod="post"
+            >
+              Post
+            </button>
+          </form>
+        </section>
+      </fieldset>
+    </main>
+
+    <footer>
+      <p>&copy; all rights reserved 2025</p>
+    </footer>
+  </body>
+</html>
