@@ -4,8 +4,8 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 
 ## Projects List
 
-1. Single Page CV -> https://roadmap.sh/projects/single-page-cv
-2. Basic HTML Website -> https://roadmap.sh/projects/basic-html-website
+ <!--Single Page CV -> https://roadmap.sh/projects/single-page-cv
+2. Basic HTML Website -> https://roadmap.sh/projects/basic-html-website-->
 
 Click any of the images below to view the readme and live demo of the project.
 
