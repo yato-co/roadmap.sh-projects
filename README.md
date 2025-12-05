@@ -15,3 +15,10 @@ Click any of the images below to view the readme and live demo of the project.
   </a>
 </p>
 
+<p align="left">
+  <a href='/Frontend Projects/02-basic-html-website/'>
+    <img width="48%" src="./assets/images/Basic HTML Website.png" alt="basic html website" />
+  </a>
+</p>
+
+
