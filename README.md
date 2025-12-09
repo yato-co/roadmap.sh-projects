@@ -10,10 +10,7 @@ Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
   <a href='/Frontend Projects/01-single-page-cv/'>
-    <figure>
     <img width="48%" src="./assets/images/Single Page CV.png" alt="single page cv" />
-    <figcaption>Single-Page-CV</figcaption>
-    </figure>
   </a>
 <a href='/Frontend Projects/02-basic-html-website/'>
     <img width="48%" src="./assets/images/Basic HTML Website.png" alt="basic html website" />
