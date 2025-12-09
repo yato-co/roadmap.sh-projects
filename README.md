@@ -12,15 +12,15 @@ Click any of the images below to view the readme and live demo of the project.
   <a href='/Frontend Projects/01-single-page-cv/'>
     <img width="48%" src="./assets/images/Single Page CV.png" alt="single page cv" />
   </a>
-  <br>
+</p>
+<p align="right">
+  <a href='/Frontend Projects/03-personal-portfolio/'>
+    <img width="48%" src="./assets/images/Personal Portfolio.png" alt="personal portfolio" />
+  </a>
 <a href='/Frontend Projects/02-basic-html-website/'>
     <img width="48%" src="./assets/images/Basic HTML Website.png" alt="basic html website" />
   </a>
 </p>
 
-<p align="left">
-  <a href='/Frontend Projects/03-personal-portfolio/'>
-    <img width="48%" src="./assets/images/Personal Portfolio.png" alt="personal portfolio" />
-  </a>
 
 
