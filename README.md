@@ -5,6 +5,7 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 ## Projects List
 
 [Single Page CV](https://roadmap.sh/projects/single-page-cv),[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),[Personal Portfolio](https://roadmap.sh/projects/portfolio-website),
+[Changelog Component](https://roadmap.sh/projects/changelog-component),
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -20,6 +21,9 @@ Click any of the images below to view the readme and live demo of the project.
 <p align="left">
 <a href='/Frontend Projects/02-basic-html-website/'>
     <img width="48%" src="./assets/images/Basic HTML Website.png" alt="basic html website" />
+  </a>
+<a href='/Frontend Projects/04-changelog-component/'>
+    <img width="48%" src="./assets/images/changelog.png" alt="changelog component" />
   </a>
 </p>
 
