@@ -5,7 +5,7 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 ## Projects List
 
 [Single Page CV](https://roadmap.sh/projects/single-page-cv),[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),[Personal Portfolio](https://roadmap.sh/projects/portfolio-website),
-[Changelog Component](https://roadmap.sh/projects/changelog-component),
+[Changelog Component](https://roadmap.sh/projects/changelog-component),[Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -27,5 +27,9 @@ Click any of the images below to view the readme and live demo of the project.
   </a>
 </p>
 
+<p align="left">
+  <a href='/Frontend Projects/05-testimonial-cards/'>
+    <img width="48%" src="./assets/images/testimonial-cards.png" alt="testimonial cards" />
+  </a>
 
 
