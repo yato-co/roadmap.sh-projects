@@ -28,7 +28,7 @@ Click any of the images below to view the readme and live demo of the project.
 </p>
 
 <p align="left">
-  <a href='/Frontend Projects/05-testimonial-cards/'>
+  <a href='/Frontend Projects/05 Testimonial Cards/'>
     <img width="48%" src="./assets/images/testimonial-cards.png" alt="testimonial cards" />
   </a>
 
